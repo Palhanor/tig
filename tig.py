@@ -1,5 +1,3 @@
-
-
 from datetime import datetime
 import hashlib
 import shutil
@@ -11,7 +9,7 @@ class Tig:
     def __init__(self):
         self.file = ""
         self.file_name = ""
-        self.base_dir = r"C:\Users\lucas\Desktop\Lucas\Programação\Estudo\Python\Git"
+        self.base_dir = os.path.dirname(os.path.realpath(__file__))
 
     def init(self, file):
         """
