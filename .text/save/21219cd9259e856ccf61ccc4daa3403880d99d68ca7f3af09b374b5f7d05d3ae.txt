@@ -1,0 +1,5 @@
+init - Inicializa o versionamento do arquivo informado
+save - Salva um determinado estado do projeto (como um commit), fazendo um novo log no hist
+hist - Permite verificar todas as versões salvas até então, sem fazer distinção por sentido (prévias ou posteriores) nem por ramificações
+diff - Permite visualizar as diferenças entre duas versões distintas, podendo receber dois estados saved, apenas um ou nenhum
+jump - Este comando faz com que seja possível alternar entre diferentes versões, permitindo a visualização e alteração do material (gerando uma nova ramificação)

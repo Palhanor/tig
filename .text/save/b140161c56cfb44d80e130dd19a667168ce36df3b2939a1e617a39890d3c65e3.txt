@@ -1,0 +1,2 @@
+init - Inicializa o versionamento do arquivo informado
+save - Salva um determinado estado do projeto (como um commit), fazendo um novo log no hist

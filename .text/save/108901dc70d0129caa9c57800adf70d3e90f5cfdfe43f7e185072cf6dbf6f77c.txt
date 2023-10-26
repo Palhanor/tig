@@ -1,0 +1,1 @@
+init - Inicializa o versionamento do arquivo informado
